@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👨‍💻 Future Objective Learning backend development
+- 👨‍💻 Future Objective : **Learning backend development**
 
 - 📫 How to reach me **akshatjain384@gmail.com**
 
