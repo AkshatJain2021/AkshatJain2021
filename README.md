@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Jain</h1>
-<h3 align="center">An aspiring software developer. Final Year ISE Student At N.M.A.M Institute Of Technology, Nitte(India)</h3>
+<h3 align="center">Software Engineer 1 at LG Soft India || Ex SWE Intern at HashedIn By Deloitte</h3>
 <img align="right" width="450" src ="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🔭 I’m currently working on **my coding and development skills**
