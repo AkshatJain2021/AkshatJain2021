@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer 1 at LG Soft India || Ex SWE Intern at HashedIn By Deloitte</h3>
 <img align="right" width="450" src ="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🔭 I’m currently working on **my coding and development skills**
+- 🔭 I’m currently working as a **React.JS** developer
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 👨‍💻 Future Objective : **Learning backend development**
 
