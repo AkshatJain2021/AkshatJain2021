@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Jain</h1>
-<h3 align="center">Software Engineer 1 at LG Soft India || Ex SWE Intern at HashedIn By Deloitte</h3>
+<h3 align="center">Solution Engineer @Whatfix || Ex Software Engineer @ LG Soft India || Ex SWE Intern at HashedIn By Deloitte</h3>
 <img align="right" width="450" src ="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🔭 I’m currently working as a **React.JS** developer
